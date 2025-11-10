@@ -3,10 +3,7 @@ This is a React remake of a popular drinks website originally built with HTML, C
 
 Features include:
 
-Responsive design
-
-Smooth scroll animations with GSAP
-
-Interactive UI components
-
-Modern styling using Tailwind CSS.
+- Responsive design
+- Smooth scroll animations with GSAP
+- Interactive UI components
+- Modern styling using Tailwind CSS
